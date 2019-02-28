@@ -42,7 +42,7 @@ Any questions or anything to add?
 
 # <small> Mass collaboration </small>
 
-
+----
 
 ## <small> Reproducibility Project: Psychology </small>
 
@@ -87,7 +87,7 @@ Lab map
 
 # <small> Transparent processes </small>
 
-
+----
 
 ## <small>A 21 word solution</small>  
 “We report how we determined our <br>
@@ -108,11 +108,13 @@ all measures in the study.”
 
 - TOP: Transparency and Openness Promotion
 - Transparency guidelines for journals 
-- <a href = https://mfr.osf.io/render?url=https://osf.io/2cz65/?action=download%26mode=render>TOP Guidelines</a>
+- <a href = https://cos.io/our-services/top-guidelines/>TOP Guidelines</a>
 
 
 
 # <small> Preregistration </small>
+
+----
 
 Eight questions to preregistration at:  
 
@@ -197,8 +199,6 @@ Registered reports
 ![Open science made easy](img/OSC_Flyer_15x15_Englisch_2.png)  
 <small>Source: https://mfr.osf.io/render?url=https://osf.io/hktmf/?action=download%26mode=render</small>
 
-
-
 ----
 
 Any questions?
@@ -257,11 +257,13 @@ Digital open scientist's toolbox
 
 ----
 
-Get an account at <a href="https://osf.io">https://osf.io</a>
+Please download an install the  
+latest versions of <a href=https://cran.rstudio.com/">R</a> and <a href="https://www.rstudio.com/products/rstudio/download/#download">RStudio Desktop</a>
 
 ----
 
-Send your email address to <br><a href="mailto:m.weiler@fu-berlin.de">m.weiler@fu-berlin.de</a>
+Please bring your notebook  
+computer to class tomorrow
 
 
 
