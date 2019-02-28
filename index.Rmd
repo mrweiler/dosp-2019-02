@@ -251,6 +251,26 @@ Any questions?
 
 Digital open scientist's toolbox
 
+----
+
+<a href="https://osf.io/">Open Science Framework</a> 
+
+----
+
+<a href="https://github.com/">GitHub</a> 
+
+----
+
+<a href="https://www.rstudio.com/">RStudio</a> 
+
+----
+
+<a href="https://www.zotero.org/">Zotero</a> 
+
+----
+
+<a href="https://slack.com/">Slack</a> 
+
 
 
 # <small>Homework</small>
@@ -258,7 +278,7 @@ Digital open scientist's toolbox
 ----
 
 Please download an install the  
-latest versions of <a href=https://cran.rstudio.com/">R</a> and <a href="https://www.rstudio.com/products/rstudio/download/#download">RStudio Desktop</a>
+latest versions of <a href="https://cran.rstudio.com/">R</a> and <a href="https://www.rstudio.com/products/rstudio/download/#download">RStudio Desktop</a>
 
 ----
 
