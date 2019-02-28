@@ -1,7 +1,7 @@
 ---
 title: <small>An introduction to digital open <br>research in clinical psychology</small>
 author: <small>Matthias Weiler</small>
-date: <small>02.03.2019</small>
+date: <small>01.03.2019</small>
 output:
   revealjs::revealjs_presentation:
     theme: black
