@@ -7,6 +7,7 @@ output:
     theme: black
     center: TRUE
     self_contained: FALSE
+    incremental: TRUE
     reveal_plugins: ["chalkboard"]
     reveal_options:
       chalkboard: 
@@ -23,11 +24,164 @@ The hypothetico-deductive model (Munafo et al. 2017)
 
 ----
 
+<a href="https://www.youtube.com/watch?v=42QuXLucH3Q">Quick summary</a>
+
+----
+
 Any questions or anything to add?
 
 
 
 # <small>Today:<br>Open science to the rescue</small>
+
+
+
+# <small>Strategies for better science</small>
+
+
+
+# <small> Mass collaboration </small>
+
+
+
+## <small> Reproducibility Project: Psychology </small>
+
+- Replication of 100 studies in psychology
+- The mean effect size of the replication  
+effects was half the magnitude of the  
+mean effect size of the original effects  
+- 97 % of original studies had significant results
+- Only 36 % replications had significant results
+
+----
+
+![Reproducibility Project: Psychology](img/F1.large_50.jpg)  
+
+<small>Source: http://science.sciencemag.org/content/349/6251/aac4716/tab-figures-data</small>
+
+
+## <small> Many labs replication project </small>
+
+- 36-sites  
+- 12-countries  
+- 6,344-subjects  
+- 10 out of 13 effects replicated  
+
+----
+
+MLRP  
+
+![Many labs replication project](img/Figure1.web.png)  
+<small>Source: https://osf.io/wx7ck/</small>
+
+## <small> Psychological Science Accelerator </small>
+
+<a href="https://psysciacc.wordpress.com/">https://psysciacc.wordpress.com/</a>
+
+----
+
+Lab map  
+<a href="https://maphub.net/chartierlab/PSA">https://maphub.net/chartierlab/PSA</a>
+
+
+
+# <small> Transparent processes </small>
+
+
+
+## <small>A 21 word solution</small>  
+“We report how we determined our <br>
+sample size, all data exclusions <br>
+(if any), all manipulations, and <br>
+all measures in the study.”  
+<small>Simmons et al. (2012)</small>
+
+----
+
+## <small>A manifesto for reproducible science</small>
+
+<a href = "https://www.nature.com/articles/s41562-016-0021/tables/1"> Munafò et al.</a>
+
+----
+
+## <small>TOP Guidelines</small>
+
+- TOP: Transparency and Openness Promotion
+- Transparency guidelines for journals 
+- <a href = https://mfr.osf.io/render?url=https://osf.io/2cz65/?action=download%26mode=render>TOP Guidelines</a>
+
+
+
+# <small> Preregistration </small>
+
+Eight questions to preregistration at:  
+
+<a href = "https://aspredicted.org/">https://aspredicted.org/</a>
+
+----
+
+What's the main question being <br>
+asked or hypothesis being tested <br>
+in this study?
+
+----
+
+Describe the key dependent <br>
+variable(s) specifying how <br>
+they will be measured.
+
+----
+
+How many and which conditions <br>
+will participants be assigned to?
+
+----
+
+Specify exactly which analyses <br>
+you will conduct to examine the <br>
+main question/hypothesis.
+
+----
+
+Any secondary analyses?
+
+----
+
+How many observations will be <br>
+collected or what will determine <br>
+sample size? <br>
+No need to justify decision, but <br>
+be precise about exactly how the <br>
+number will be determined.
+
+----
+
+Anything else you would like to pre-register? <br>
+(e.g., data exclusions, variables collected <br>
+for exploratory purposes, unusual analyses planned?)
+
+----
+
+Have any data been collected <br>
+for this study already?
+
+
+
+# <small> Registered reports </small>
+
+----
+
+Registered reports  
+![Registered reports](img/registered_reports.width-800.png)
+
+<small>Source: https://cos.io/rr/</small>
+
+----
+
+Registered reports  
+![Registered reports](img/RR_workflow_diagram_400.png)
+
+<small>Source: https://cos.io/rr/</small>
 
 
 
@@ -42,6 +196,48 @@ Any questions or anything to add?
 
 ![Open science made easy](img/OSC_Flyer_15x15_Englisch_2.png)  
 <small>Source: https://mfr.osf.io/render?url=https://osf.io/hktmf/?action=download%26mode=render</small>
+
+
+
+----
+
+Any questions?
+
+
+
+# <small>Preview: The research projects</small>
+
+----
+
+## <small> My suggestions </small>
+
+- Plan a research project
+- Present your proposal
+- Do some research
+- Present your results
+
+----
+
+## <small> Planning </small>
+
+- Choose from a list of topics
+- Prepare introduction, method <br>section and proposed analysis
+
+## <small> Proposal presentation </small>
+
+- Present your project to the others
+- Short talk (5 mins + questions)
+- Select the four "best" projects
+
+## <small> Research </small>
+
+- Conduct your study in groups of three
+- Add results and discussion
+
+## <small> Final presentation </small>
+
+- Present your results to the others
+- Talk or poster session
 
 
 
