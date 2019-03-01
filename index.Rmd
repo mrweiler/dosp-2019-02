@@ -277,8 +277,8 @@ Digital open scientist's toolbox
 
 ----
 
-Please download an install the  
-latest versions of <a href="https://cran.rstudio.com/">R</a> and <a href="https://www.rstudio.com/products/rstudio/download/#download">RStudio Desktop</a>
+Please follow the installation instructions at  
+<a href="https://happygitwithr.com/install-intro.html">https://happygitwithr.com/install-intro.html</a>
 
 ----
 
